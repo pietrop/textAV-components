@@ -4,3 +4,26 @@ This repository, uses [`trello-to-markdown`](https://www.npmjs.com/package/trell
 
 <!-- 
 To change the content edit the trello board. -->
+
+## Updating the gitbook
+
+to update [the gitbook](https://pietropassarelli.gitbooks.io/textav-audio-and-video-components-ongoing/content/) with the content of the [trello board](https://trello.com/b/58mo9Tpa/textav-audio-and-video-components-ongoing) 
+
+Use the [github repository `textAV-components`]https://github.com/pietrop/textAV-components
+
+```
+git clone git@github.com:pietrop/textAV-components.git
+```
+
+```
+cd textAV-components
+```
+
+Run the script ([`trello-to-markdown`](https://www.npmjs.com/package/trello-to-markdown) )
+```
+npm start 
+```
+
+Then git add, commit, and push to update the repository
+
+Gitbook will synch automatically. 
