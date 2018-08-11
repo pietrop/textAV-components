@@ -1,13 +1,13 @@
 # Summary
 
-## Guidelines for this board Things to define
+## Guidelines for this board
 
-* [How to add a new library/Modules/components](docs/Guidelines-for-this-board-Things-to-define/How-to-add-a-new-libraryModulescomponents.md)
-* [Transcription schema](docs/Guidelines-for-this-board-Things-to-define/Transcription-schema.md)
-* [Schema for video sequence](docs/Guidelines-for-this-board-Things-to-define/Schema-for-video-sequence.md)
-* [Where to host the "Toolkit" resource list. gitbook?](docs/Guidelines-for-this-board-Things-to-define/Where-to-host-the-Toolkit-resource-list.-gitbook.md)
-* [Plan Roadmap taxonomy](docs/Guidelines-for-this-board-Things-to-define/Plan-Roadmap-taxonomy.md)
-* [github README template](docs/Guidelines-for-this-board-Things-to-define/github-README-template.md)
+* [How to add a new library/Modules/components](docs/Guidelines-for-this-board/How-to-add-a-new-libraryModulescomponents.md)
+* [Transcription schema](docs/Guidelines-for-this-board/Transcription-schema.md)
+* [Schema for video sequence](docs/Guidelines-for-this-board/Schema-for-video-sequence.md)
+* [Trello --> Github --> gitbook (programmatically)](docs/Guidelines-for-this-board/Trello----Github----gitbook-programmatically.md)
+* [Plan Roadmap taxonomy](docs/Guidelines-for-this-board/Plan-Roadmap-taxonomy.md)
+* [github README template](docs/Guidelines-for-this-board/github-README-template.md)
 
 
 ## Media processing
@@ -16,7 +16,7 @@
 * [convert video to audio [Open Source]](docs/Media-processing/convert-video-to-audio-[Open-Source].md)
 * [Generate list of ffmpeg supported file formats [Open Source]](docs/Media-processing/Generate-list-of-ffmpeg-supported-file-formats-[Open-Source].md)
 * [Detect silence [Open Source]](docs/Media-processing/Detect-silence-[Open-Source].md)
-* [Youtube Video downloader module (?) [Open Source]](docs/Media-processing/Youtube-Video-downloader-module-()-[Open-Source].md)
+* [Youtube Video downloader module (?) [Open Source]](docs/Media-processing/Youtube-Video-downloader-module--[Open-Source].md)
 * [Module: Open source STT //Gentle refactor [Open Source]](docs/Media-processing/Module-Open-source-STT-Gentle-refactor-[Open-Source].md)
 * [cc extraction // OCR of captions [Open Source]](docs/Media-processing/cc-extraction--OCR-of-captions-[Open-Source].md)
 * [Module: Video format converter [Open Source]](docs/Media-processing/Module-Video-format-converter-[Open-Source].md)
@@ -29,7 +29,7 @@
 
 * [Transcriber module](docs/Transcriptions---utils/Transcriber-module.md)
 * [Sample material for testing STT services [Open Source / CC]](docs/Transcriptions---utils/Sample-material-for-testing-STT-services-[Open-Source--CC].md)
-* [Create word accurate time codes from line accurate time-coded transcript (eg srt)](docs/Transcriptions---utils/Create-word-accurate-time-codes-from-line-accurate-time-coded-transcript-(eg-srt).md)
+* [Create word accurate time codes from line accurate time-coded transcript (eg srt)](docs/Transcriptions---utils/Create-word-accurate-time-codes-from-line-accurate-time-coded-transcript-eg-srt.md)
 * [Language codes `ISO-639-1 Code`](docs/Transcriptions---utils/Language-codes-`ISO-639-1-Code`.md)
 * [Module: Timecode conversion [Open Source]](docs/Transcriptions---utils/Module-Timecode-conversion-[Open-Source].md)
 * [UI Utilities for timecode representation](docs/Transcriptions---utils/UI-Utilities-for-timecode-representation.md)
@@ -47,7 +47,7 @@
 * [Baidu STT SDK [Proprietary]](docs/Transcription-STT-Sdk/Baidu-STT-SDK-[Proprietary].md)
 * [Speechmatics STT SDK [Proprietary]](docs/Transcription-STT-Sdk/Speechmatics-STT-SDK-[Proprietary].md)
 * [Spoken Data STT SDKs [Proprietary]](docs/Transcription-STT-Sdk/Spoken-Data-STT-SDKs-[Proprietary].md)
-* [Gentle (Server) STT node SDK [Open Source]](docs/Transcription-STT-Sdk/Gentle-(Server)-STT-node-SDK-[Open-Source].md)
+* [Gentle (Server) STT node SDK [Open Source]](docs/Transcription-STT-Sdk/Gentle-Server-STT-node-SDK-[Open-Source].md)
 * [Temi.com/rev.com [Proprietary]](docs/Transcription-STT-Sdk/Temi.comrev.com-[Proprietary].md)
 * [Latvian Kaldi [open source]](docs/Transcription-STT-Sdk/Latvian-Kaldi-[open-source].md)
 * [Mod9](docs/Transcription-STT-Sdk/Mod9.md)
@@ -71,7 +71,7 @@
 
 ## Captions
 
-* [Module: captions composer (with text pre-segmentation) [Open Source]](docs/Captions/Module-captions-composer-(with-text-pre-segmentation)-[Open-Source].md)
+* [Module: captions composer (with text pre-segmentation) [Open Source]](docs/Captions/Module-captions-composer-with-text-pre-segmentation-[Open-Source].md)
 * [Module: Captions burner [Open Source]](docs/Captions/Module-Captions-burner-[Open-Source].md)
 * [Srt parser composer // Pietro [Open Source]](docs/Captions/Srt-parser-composer--Pietro-[Open-Source].md)
 * [TTML Parser // Gary, Brightcove [Open Source]](docs/Captions/TTML-Parser--Gary,-Brightcove-[Open-Source].md)
@@ -101,12 +101,12 @@
 
 ## Export & remix & video editing
 
-* [Parse EDL (plain text) to JSON [Open Source]](docs/Export-&-remix-&-video-editing/Parse-EDL-(plain-text)-to-JSON-[Open-Source].md)
+* [Parse EDL (plain text) to JSON [Open Source]](docs/Export-&-remix-&-video-editing/Parse-EDL-plain-text-to-JSON-[Open-Source].md)
 * [Module: Post to facebook [Open Source]](docs/Export-&-remix-&-video-editing/Module-Post-to-facebook-[Open-Source].md)
 * [EDL composer from JSON EDL [Open Source]](docs/Export-&-remix-&-video-editing/EDL-composer-from-JSON-EDL-[Open-Source].md)
 * [Module: Post to Twitter Video [Open Source]](docs/Export-&-remix-&-video-editing/Module-Post-to-Twitter-Video-[Open-Source].md)
-* [edit video EDL (JSON) - `ffmpeg-remix` (super fast video editing of mp4 videos) // Laurian [Open Source]](docs/Export-&-remix-&-video-editing/edit-video-EDL-(JSON)---`ffmpeg-remix`-(super-fast-video-editing-of-mp4-videos)--Laurian-[Open-Source].md)
-* [EDL Json to XML FCP7 (compatible with premiere) [Open Source]](docs/Export-&-remix-&-video-editing/EDL-Json-to-XML-FCP7-(compatible-with-premiere)-[Open-Source].md)
+* [edit video EDL (JSON) - `ffmpeg-remix` (super fast video editing of mp4 videos) // Laurian [Open Source]](docs/Export-&-remix-&-video-editing/edit-video-EDL-JSON---`ffmpeg-remix`-super-fast-video-editing-of-mp4-videos--Laurian-[Open-Source].md)
+* [EDL Json to XML FCP7 (compatible with premiere) [Open Source]](docs/Export-&-remix-&-video-editing/EDL-Json-to-XML-FCP7-compatible-with-premiere-[Open-Source].md)
 * [Popcorn Js // Mozilla/Internet Archive [Open Source]](docs/Export-&-remix-&-video-editing/Popcorn-Js--MozillaInternet-Archive-[Open-Source].md)
 
 
