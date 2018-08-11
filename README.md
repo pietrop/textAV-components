@@ -11,7 +11,7 @@ To change the content edit the trello board. -->
 
 to update [the gitbook](https://pietropassarelli.gitbooks.io/textav-audio-and-video-components-ongoing/content/) with the content of the [trello board](https://trello.com/b/58mo9Tpa/textav-audio-and-video-components-ongoing) 
 
-Use the [github repository [`textAV-components`](https://github.com/pietrop/textAV-components)
+Use the [github repository `textAV-components`](https://github.com/pietrop/textAV-components)
 
 ```
 git clone git@github.com:pietrop/textAV-components.git
