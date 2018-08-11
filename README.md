@@ -5,6 +5,8 @@ This repository, uses [`trello-to-markdown`](https://www.npmjs.com/package/trell
 <!-- 
 To change the content edit the trello board. -->
 
+`Trello --> Github --> Gitbook `
+
 ## Updating the gitbook
 
 to update [the gitbook](https://pietropassarelli.gitbooks.io/textav-audio-and-video-components-ongoing/content/) with the content of the [trello board](https://trello.com/b/58mo9Tpa/textav-audio-and-video-components-ongoing) 
