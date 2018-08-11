@@ -9,6 +9,6 @@
   "author": "Pietro Passarelli <pietro.passarelli@gmail.com> (http://pietropassarelli.com)",
   "license": "ISC",
   "dependencies": {
-    "trello-to-markdown": "^3.0.0"
+    "trello-to-markdown": "^4.0.1"
   }
 }
