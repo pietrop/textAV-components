@@ -2,7 +2,9 @@
 
 ## Template
 
-Feel free to use the following template.
+Feel free to use the following template. To a new card in the appropriate list in [this trello board](https://trello.com/b/58mo9Tpa/textav-audio-and-video-components-ongoing) 
+
+This also programmatically updated [the corresponding gitbook](https://pietropassarelli.gitbooks.io/textav-audio-and-video-components-ongoing/content/)
 
 ---
 ### Brief description 

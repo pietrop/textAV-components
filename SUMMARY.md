@@ -3,8 +3,6 @@
 ## Guidelines for this board
 
 * [How to add a new library/Modules/components](docs/Guidelines-for-this-board/How-to-add-a-new-libraryModulescomponents.md)
-* [Transcription schema](docs/Guidelines-for-this-board/Transcription-schema.md)
-* [Schema for video sequence](docs/Guidelines-for-this-board/Schema-for-video-sequence.md)
 * [Trello --> Github --> gitbook (programmatically)](docs/Guidelines-for-this-board/Trello----Github----gitbook-programmatically.md)
 * [Plan Roadmap taxonomy](docs/Guidelines-for-this-board/Plan-Roadmap-taxonomy.md)
 * [github README template](docs/Guidelines-for-this-board/github-README-template.md)
@@ -40,7 +38,6 @@
 
 * [Web Speech API](docs/Transcription-STT-Sdk/Web-Speech-API.md)
 * [Pocket Sphinx STT [Open Source]](docs/Transcription-STT-Sdk/Pocket-Sphinx-STT-[Open-Source].md)
-* [Pocketsphinx STT Module [Open Source]](docs/Transcription-STT-Sdk/Pocketsphinx-STT-Module-[Open-Source].md)
 * [IBM Watson STT [Proprietary]](docs/Transcription-STT-Sdk/IBM-Watson-STT-[Proprietary].md)
 * [Google Cloud Speech API [Proprietary]](docs/Transcription-STT-Sdk/Google-Cloud-Speech-API-[Proprietary].md)
 * [Microsoft Bing STT [Proprietary]](docs/Transcription-STT-Sdk/Microsoft-Bing-STT-[Proprietary].md)
