@@ -19,7 +19,7 @@ git clone git@github.com:pietrop/textAV-components.git
 cd textAV-components
 ```
 
-Run the script ([`trello-to-markdown`](https://www.npmjs.com/package/trello-to-markdown) )
+Then run the script ([`trello-to-markdown`](https://www.npmjs.com/package/trello-to-markdown) )
 ```
 npm start 
 ```
