@@ -11,7 +11,9 @@ commit_country_json_files() {
   # Current month and year, e.g: Apr 2018
   dateAndMonth=`date "+%b %Y"`
   # Stage the modified files in dist/output
-#   git add -f dist/output/*.json
+  git add docs/
+  git add README.md
+  #   git add -f dist/output/*.json
   # Create a new commit with a custom build message
   # with "[skip ci]" to avoid a build loop
   # and Travis build number for reference

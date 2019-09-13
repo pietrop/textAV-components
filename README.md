@@ -30,4 +30,9 @@ Then git add, commit, and push to update the repository
 
 Gitbook will synch automatically. 
 
+
+<!-- To update the gitbook, can trigger a build from [Travis](https://travis-ci.org/pietrop/textAV-components) -->
+
+<!-- based on https://www.vinaygopinath.me/blog/tech/commit-to-master-branch-on-github-using-travis-ci/ -->
+
 <!-- TESTING CHANGES -->

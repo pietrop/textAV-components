@@ -18,7 +18,6 @@ node_js: "10"
 
 install:
   - node --version
-  - npm i -g npm@5
   - npm --version
   - npm install
   # - npm run make_js
